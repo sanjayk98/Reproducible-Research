@@ -1,5 +1,6 @@
-# Reproducible-Research-Project 1
-
+## Reproducible-Research-Project 1
+```
+Activity.R
 -Code for reading in the dataset and/or processing the data
 -Histogram of the total number of steps taken each day
 -Mean and median number of steps taken each day
